@@ -9,6 +9,19 @@
 ### 2.1 模型效果
 
 * 当选择Bert作为预训练词向量模型时，直接接全连接层和接更加复杂的深度学习模型在最终测试集f1-score相差不超过2%。后续模型不变，预词向量模型更换为ERNIE后提升4%～5%。
+* 部分模型的训练、验证、测试如下图所示
+
+* BertCNN
+
+<img width="400" height="250" src="https://github.com/YangHan-Morningstar/Bert-Chinese-ShortText-Classification/blob/master/img/bert_cnn.jpg"/>
+
+* BertRNN
+
+<img width="400" height="250" src="https://github.com/YangHan-Morningstar/Bert-Chinese-ShortText-Classification/blob/master/img/bert_cnn.jpg"/>
+
+* ERNIE-Base
+
+<img width="400" height="250" src="https://github.com/YangHan-Morningstar/Bert-Chinese-ShortText-Classification/blob/master/img/bert_cnn.jpg"/>
 
 ### 2.2 数据介绍
 
