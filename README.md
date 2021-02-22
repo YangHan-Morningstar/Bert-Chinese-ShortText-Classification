@@ -13,15 +13,15 @@
 
 * BertCNN
 
-<img width="400" height="250" src="https://github.com/YangHan-Morningstar/Bert-Chinese-ShortText-Classification/blob/master/img/bert_cnn.jpg"/>
+<img width="700" height="400" src="https://github.com/YangHan-Morningstar/Bert-Chinese-ShortText-Classification/blob/master/img/bert_cnn.jpg"/>
 
 * BertRNN
 
-<img width="400" height="250" src="https://github.com/YangHan-Morningstar/Bert-Chinese-ShortText-Classification/blob/master/img/bert_cnn.jpg"/>
+<img width="700" height="400" src="https://github.com/YangHan-Morningstar/Bert-Chinese-ShortText-Classification/blob/master/img/bert_rnn.jpg"/>
 
 * ERNIE-Base
 
-<img width="400" height="250" src="https://github.com/YangHan-Morningstar/Bert-Chinese-ShortText-Classification/blob/master/img/bert_cnn.jpg"/>
+<img width="700" height="400" src="https://github.com/YangHan-Morningstar/Bert-Chinese-ShortText-Classification/blob/master/img/ernie_base.jpg"/>
 
 ### 2.2 数据介绍
 
